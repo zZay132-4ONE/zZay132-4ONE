@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dongzhi Zhang</h1>
-<h3 align="center">A dedicated computer science enthusiastic studying at Carnegie Mellon University.</h3>
+<h3 align="center">A dedicated computer science enthusiastic currently studying at Carnegie Mellon University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zzay132-4one&label=Profile%20views&color=0e75b6&style=flat" alt="zzay132-4one" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zzay132-4one&rank=S,A&column=3&theme=nord&margin-w=15&margin-h=15&no-frame=true" alt="zzay132-4one" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zzay132-4one&rank=-B,-C,-UNKNOWN&column=3&theme=nord&margin-w=15&margin-h=15&no-frame=true" alt="zzay132-4one" /></a> </p>
 
 - 📫 How to reach me **zzay0132@gmail.com**
 
