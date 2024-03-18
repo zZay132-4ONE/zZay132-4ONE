@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dongzhi Zhang</h1>
-<h3 align="center">A dedicated computer science enthusiastic currently studying at Carnegie Mellon University.</h3>
+<h3 align="center">A dedicated computer science enthusiast currently studying at Carnegie Mellon University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zzay132-4one&label=Profile%20views&color=0e75b6&style=flat" alt="zzay132-4one" /> </p>
 
