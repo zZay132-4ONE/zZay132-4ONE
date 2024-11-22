@@ -20,4 +20,10 @@
 ### Coding Stats:
 
 <!--START_SECTION:waka-->
+
+```txt
+Java   8 mins          █████████████████████▒░░░   85.33 %
+C++    1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 %
+```
+
 <!--END_SECTION:waka-->
