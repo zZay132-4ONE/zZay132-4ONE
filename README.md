@@ -15,7 +15,7 @@
 
 <p><img src="https://github-readme-stats-git-master-dongzhi-zhangs-projects.vercel.app/api?username=zzay132-4one&count_private=true&show_icons=true&theme=github_dark_dimmed"></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zzay132-4one&theme=github-dark-dimmed&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zzay132-4one&theme=github-dark-dimmed&hide_longest_streak=true&card_width=467)](https://git.io/streak-stats)
 
 ### Coding Stats:
 
