@@ -22,8 +22,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other   0 secs          ████████████████████▓░░░░   82.90 %
-C++     0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
